@@ -1,2 +1,2 @@
 # Learning-C-Language-Basic
-Begning 
+Beginning
