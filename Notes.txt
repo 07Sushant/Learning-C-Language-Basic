@@ -1,1 +1,9 @@
-// SUshant
+// SUshantSUSHANT KUMAR
+
+
+Dynamic MEmory Allocation
+
+1.  malloc()
+2.  calloc()
+3.  free()
+4.  realloc()
