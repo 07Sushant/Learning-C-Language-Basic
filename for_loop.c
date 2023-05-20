@@ -1,13 +1,23 @@
 // printitng 1 to 10 in ascending using for loop
 #include<stdio.h>
 int main()
-{
-    int n;
+{   
+    int i;
+    int result;
+    int input;
+
     printf("Enter the number: ");
-    scanf("%d", &n);
-    printf("Enter the number %d\n\n", n);
-    for (n; n>0; n=n-1){
-        printf("%d\n",n);
+    scanf("%d", &input);
+    printf("\n");
+
+
+    for (i = 1; i <= 10; i++)
+    {
+        result = i * input;
+        printf("%d X %d = %d\n", i, input, result );
+        printf("\n");
+
+
     }
-    return 0;
+        return 0;
 }
