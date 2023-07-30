@@ -1,2 +1,3 @@
 # Learning-C-Language-Basic
-Begning 
+Done with basic 
+Tring To Implement 
